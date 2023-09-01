@@ -1,0 +1,39 @@
+{
+  "singers": [
+    {
+      "singer_name": "周杰伦",
+      "singer_pic": "http://dsjkfhdsjfhsdjkf.com",
+      "other_name": "Jay Chou",
+      "singer_id": 4558,
+      "id": 1
+    },
+    {
+      "singer_name": "胡歌",
+      "singer_pic": "http://dsjkfhdsjfhsdjkf.com",
+      "other_name": "Jay Chou",
+      "singer_id": 34,
+      "id": 2
+    },
+    {
+      "singer_name": "幅度萨芬",
+      "singer_pic": "http://dsjkfhdsjfhsdjkf.com",
+      "other_name": "Jay Chou",
+      "singer_id": 554,
+      "id": 3
+    },
+    {
+      "singer_name": "方式的",
+      "singer_pic": "http://dsjkfhdsjfhsdjkf.com",
+      "other_name": "Jay Chou",
+      "singer_id": 2221,
+      "id": 4
+    },
+    {
+      "singer_name": "周杰多少伦",
+      "singer_pic": "http://dsjkfhdsjfhsdjkf.com",
+      "other_name": "Jay Chou",
+      "singer_id": 4111558,
+      "id": 5
+    }
+  ]
+}

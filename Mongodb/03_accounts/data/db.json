@@ -1,0 +1,53 @@
+{
+  "accounts": [
+    {
+      "id": "NYtw7xO0m",
+      "title": "收红包",
+      "time": "2023-08-28",
+      "type": "1",
+      "account": "122",
+      "remarks": "小明给的"
+    },
+    {
+      "id": "7KhxRAf87",
+      "title": "买冰棍",
+      "time": "2023-08-28",
+      "type": "-1",
+      "account": "100",
+      "remarks": "终于能吃冰棍了"
+    },
+    {
+      "id": "3-YLju5f3",
+      "title": "买电脑",
+      "time": "2023-02-08",
+      "type": "-1",
+      "account": "5500",
+      "remarks": "为了上网课"
+    },
+    {
+      "id": "3-YLju5f4",
+      "title": "请女朋友吃饭",
+      "time": "2023-02-08",
+      "type": "-1",
+      "account": "214",
+      "remarks": "情人节聚餐"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "zhangsan",
+      "age": 18
+    },
+    {
+      "id": 2,
+      "name": "lisi",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "wangwu",
+      "age": 22
+    }
+  ]
+}
